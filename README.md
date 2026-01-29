@@ -24,6 +24,10 @@
       <img src="https://img.icons8.com/?size=256&id=20909&format=png" width="80" height="80"><br>
       HTML<br>(📖Learning)
     </td>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=256&id=21278&format=png" width="80" height="80"><br>
+      CSS<br>(📖Learning)
+    </td>
   </tr>
 </table>
 
