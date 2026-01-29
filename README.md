@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 MOMOR1A
+- Student
+- Python backend
+- Roblox game systems
 
-<!--
-**MOMOR1A/MOMOR1A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📘 Languages
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="80" height="80"><br>
+      Python
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Luau_Logo_%28Programming_Language%29.svg" width="80" height="80"><br>
+      Luau
+    </td>
+    <td align="center">
+      <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" width="80" height="80"><br>
+      Go<br>(📖Learning)
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=256&id=20909&format=png" width="80" height="80"><br>
+      HTML<br>(📖Learning)
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+## 🔎 Profile
+- [Roblox Game Developer](https://devforum.roblox.com/u/noobie_sonyundan/summary)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ☎️ Contact 
+- UZQueen1@proton.me
