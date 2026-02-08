@@ -1,4 +1,4 @@
-<img src="https://ac-p1.namu.la/20240523sac/6ebc7fff11e7d9d467253964646c13b4500450e39db2666f8b4d1816e3578a5d.webp?expires=1769710424&key=UkI9PuBc5FVD9M1VVZRLag">
+<img src="https://blue-utils.me/img/common/memorial/illust/momoi_maid/momoi_maid.jpg">
 
 # 👋 MOMOR1A
 - Student
